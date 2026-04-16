@@ -1,0 +1,39 @@
+// Display
+NET "SEG<0>" LOC = "L14";
+NET "SEG<1>" LOC = "H12";
+NET "SEG<2>" LOC = "N14";
+NET "SEG<3>" LOC = "N11";
+NET "SEG<4>" LOC = "P12";
+NET "SEG<5>" LOC = "L13";
+NET "SEG<6>" LOC = "M12";
+
+NET "AN<0>" LOC = "K14"; 
+NET "AN<1>" LOC = "M13"; 
+NET "AN<2>" LOC = "J12"; 
+NET "AN<3>" LOC = "F12";
+
+// Clock
+NET "clock" LOC = "B8";
+
+// LEDs
+NET "LED3" LOC = "P6";
+NET "LED2" LOC = "M5";
+NET "LED1" LOC = "M11";
+NET "LED0" LOC = "P7";
+
+// Buttons
+NET "buttonReset" LOC = "G12"; //BTN0
+
+// Switches
+NET "switches<3>" LOC = "B4";
+NET "switches<2>" LOC = "P11";
+NET "switches<1>" LOC = "L3";
+NET "switches<0>" LOC = "K3";
+
+// Pmod
+NET "SYNC" 	LOC = "B6";			//JB1
+NET "pModReset" LOC = "C6";	//JB2
+NET "SPOT3" LOC = "B2";			//JA1
+NET "SPOT2" LOC = "A3";			//JA2
+NET "SPOT1" LOC = "J3";			//JA3
+NET "SPOT0" LOC = "B5";			//JA4

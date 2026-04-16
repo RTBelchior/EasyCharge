@@ -1,0 +1,9 @@
+[Inputs]
+clk_50MHz
+=reset[1:0]=
+[Outputs]
+clk_5sec
+[BiDir]
+[ATTRIBUTES]
+VeriModel clkDivider
+

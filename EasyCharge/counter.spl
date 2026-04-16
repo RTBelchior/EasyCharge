@@ -1,0 +1,10 @@
+[Inputs]
+clock
+enable
+=reset[1:0]=
+[Outputs]
+=counters[3:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel counter
+

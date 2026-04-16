@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ise/Documents/Projeto PCE/EasyCharge/Schematic.ncd
+OUTFILE=/home/ise/Documents/Projeto PCE/EasyCharge/Schematic.bit
+FAMILY=Spartan3E
+PART=xc3s100e-4cp132
+WORKINGDIR=/home/ise/Documents/Projeto PCE/EasyCharge
+LICENSE=WebPack
+USER_INFO=213726565_0_0_158

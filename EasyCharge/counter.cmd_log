@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {/home/ise/Documents/Projeto PCE/EasyCharge/counter.v} -lang verilog -prj EasyCharge -o counter.spl -module counter -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e counter.spl {/home/ise/Documents/Projeto PCE/EasyCharge/counter.sym} 

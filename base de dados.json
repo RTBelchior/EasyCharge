@@ -1,0 +1,86 @@
+{
+  "easycharge": {
+    "pontos": {
+      "Ponto1": {
+        "nome": "IPS Tecnologia",
+        "latitude": 38.521838,
+        "longitude": -8.838941,
+        "cacifos": {
+          "Cacifo1": {
+            "estado": "Disponível",
+            "porta": "Fechada",
+            "trotinete": "Não detetada",
+            "bateria": 0
+          },
+          "Cacifo2": {
+            "estado": "Disponível",
+            "porta": "Fechada",
+            "trotinete": "Não detetada",
+            "bateria": 0
+          },
+          "Cacifo3": {
+            "estado": "Disponível",
+            "porta": "Fechada",
+            "trotinete": "Não detetada",
+            "bateria": 0
+          },
+          "Cacifo4": {
+            "estado": "Disponível",
+            "porta": "Fechada",
+            "trotinete": "Não detetada",
+            "bateria": 0
+          }
+        }
+      },
+      "Ponto2": {
+        "nome": "IPS Educação",
+        "latitude": 38.519644,
+        "longitude": -8.838727,
+        "cacifos": {
+          "Cacifo1": {
+            "estado": "Disponível",
+            "porta": "Fechada",
+            "trotinete": "Não detetada",
+            "bateria": 0
+          },
+          "Cacifo2": {
+            "estado": "Disponível",
+            "porta": "Fechada",
+            "trotinete": "Não detetada",
+            "bateria": 0
+          },
+          "Cacifo3": {
+            "estado": "Disponível",
+            "porta": "Fechada",
+            "trotinete": "Não detetada",
+            "bateria": 0
+          },
+          "Cacifo4": {
+            "estado": "Disponível",
+            "porta": "Fechada",
+            "trotinete": "Não detetada",
+            "bateria": 0
+          }
+        }
+      }
+    },
+    "utilizadores": {
+      "2025159599@estudantes,ips,pt": {
+        "nome": "Rodrigo",
+        "password": "12345678",
+        "telemovel": "912345678"
+      }
+    },
+    "historico": {
+      "2025159599@estudantes,ips,pt": {
+        "2026-03-09 10:30": "IPS Tecnologia | 1 | 2.50 | 0.33 | 00:45:00",
+        "2026-03-12 14:00": "IPS Educação | 2 | 4.80 | 0.62 | 01:30:00",
+        "2026-03-17 09:15": "IPS Tecnologia | 3 | 1.80 | 0.23 | 00:35:00",
+        "2026-03-20 18:45": "IPS Educação | 1 | 5.20 | 0.68 | 01:50:00",
+        "2026-03-25 11:00": "IPS Tecnologia | 2 | 3.10 | 0.40 | 01:05:00",
+        "2026-03-28 16:30": "IPS Educação | 4 | 6.00 | 0.78 | 02:00:00"
+      }
+    }
+  }
+}
+

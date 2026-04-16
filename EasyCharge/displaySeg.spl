@@ -1,0 +1,10 @@
+[Inputs]
+clock
+=counters[15:0]=
+[Outputs]
+=segments[6:0]=
+=anodes[3:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel displaySeg
+

@@ -1,0 +1,4 @@
+verilog work "displaySeg.v"
+verilog work "counter.v"
+verilog work "clkDivider.v"
+verilog work "Schematic.vf"

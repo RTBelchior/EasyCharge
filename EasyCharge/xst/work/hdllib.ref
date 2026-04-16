@@ -1,0 +1,6 @@
+EN trotilock_basys2 NULL /home/ise/Documents/Cruel/trotilock_basys2.vhd sub00/vhpl00 1776329003
+MO counter NULL counter.v vlg10/counter.bin 1774523938
+MO clkDivider NULL clkDivider.v vlg75/clk_divider.bin 1774523938
+MO Schematic NULL Schematic.vf vlg29/_schematic.bin 1774523938
+MO displaySeg NULL displaySeg.v vlg21/display_seg.bin 1774523938
+AR trotilock_basys2 behavioral /home/ise/Documents/Cruel/trotilock_basys2.vhd sub00/vhpl01 1776329004
